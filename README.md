@@ -1,1 +1,1 @@
-# Kaggle-NLP-Telia
+# Telia andmeteaduse ülesanne.
